@@ -1,0 +1,12 @@
+#Ignora archivos 
+
+
+#*.xlsx
+#*.csv
+*.pbix
+#*.txt
+*.json
+Data/Mex_datamind_2022_2023.csv
+
+#Ignorar version antigua
+version antigua/
